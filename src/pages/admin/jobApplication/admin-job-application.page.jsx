@@ -56,9 +56,9 @@ function AdminJobApplicationPage() {
       </Card>
 
       <Card className="p-4">
-        {/* {jobApplication.answers.map((answer, i) => {
+         {jobApplication.answers.map((answer, i) => {
           return <p key={i}>{answer}</p>;
-        })} */}
+        })} 
       </Card>
       <div>
         <Button variant="link" asChild>
